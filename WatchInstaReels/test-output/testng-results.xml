@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="156071" started-at="2021-09-05T06:54:42Z" finished-at="2021-09-05T06:57:18Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="156071" started-at="2021-09-05T06:54:42Z" finished-at="2021-09-05T06:57:18Z">
+      <class name="test.LikeReels">
+        <test-method status="PASS" signature="openApp()[pri:0, instance:test.LikeReels@6fa51cd4]" name="openApp" is-config="true" duration-ms="20044" started-at="2021-09-05T06:54:21Z" finished-at="2021-09-05T06:54:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApp -->
+        <test-method status="PASS" signature="likeReels()[pri:0, instance:test.LikeReels@6fa51cd4]" name="likeReels" duration-ms="156036" started-at="2021-09-05T06:54:42Z" finished-at="2021-09-05T06:57:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- likeReels -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:test.LikeReels@6fa51cd4]" name="tearDown" is-config="true" duration-ms="547" started-at="2021-09-05T06:57:18Z" finished-at="2021-09-05T06:57:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- test.LikeReels -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
